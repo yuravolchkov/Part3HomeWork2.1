@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CPP-20\\VC\u002B\u002B\\Part3\\HW2.1\\Task1.Month\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89CF1672-0618-4EB0-A00C-E1DBA3A0205E}|Task1.Month.vcxproj|D:\\CPP-20\\VC\u002B\u002B\\Part3\\HW2.1\\Task1.Month\\Task1.Month.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CF1672-0618-4EB0-A00C-E1DBA3A0205E}|Task1.Month.vcxproj|solutionrelative:Task1.Month.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.Month.cpp",
+              "DocumentMoniker": "D:\\CPP-20\\VC\u002B\u002B\\Part3\\HW2.1\\Task1.Month\\Task1.Month.cpp",
+              "RelativeDocumentMoniker": "Task1.Month.cpp",
+              "ToolTip": "D:\\CPP-20\\VC\u002B\u002B\\Part3\\HW2.1\\Task1.Month\\Task1.Month.cpp",
+              "RelativeToolTip": "Task1.Month.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T16:59:05.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
